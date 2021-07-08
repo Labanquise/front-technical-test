@@ -1,8 +1,8 @@
 # Front Technical Test / LaBanqui.se
 
-Here is the technical test you have waited for. 
-**Wait a minute ? All is in english ???**
-Yes, test also wants to prove you can understand technical english. But, hey, relax and all will be fine.
+Here is the technical test you have waited for. <br>
+**Wait a minute ? All is in english ???**<br>
+Yes, we also test that you can understand technical english. But, hey, relax and all will be fine.
 There is no time limit for this test, you have access to all the ressources you want : website, google, udemy, stackoverflow. This is excluding people : don't ask your older sister to code for you 😉.
 So, now, my last advice : follow the instructions 🥧
 
@@ -11,6 +11,7 @@ So, now, my last advice : follow the instructions 🥧
 ## Instructions 📚
 
 - You must fork this project, before returning it
+- Graphics elements are in one Adobe .XD file (the software is free for personnal use)
 - Javascript Libraries and frameworks are forbidden ⛔
 - PX and PT as unit of measure are also forbidden ☠ : use %, em or rem.
 - Your css code can be in SCSS [SASS], but it is not mandatory
