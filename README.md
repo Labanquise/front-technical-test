@@ -20,6 +20,7 @@ So, now, my last advice : follow the instructions 🥧
 ## The tasks 🚀
 
 - You have to complete the code necessary for this page (both Desktop and Mobile version) [[Download](https://drive.google.com/file/d/1W_d79qTObRWc_YP0rbyre2lQkm8Aq0Ej/view?usp=sharing)]
+![How to download the .XD file](https://github.com/Labanquise/front-technical-test/blob/08b5fe2d4004f8ebd020b9ccca0aa73c0e0feb6f/gdrive-technicaltest-download.png)
 - "Réaliser l'impossible !": logos must be arranged using display:flex
 - Click event on each logo there is an effect:
 	- rotate 360°
